@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Estudo dos diferentes perfis da Matéria Escura na Via Láctea </h1>
-Representação computacional da distribuição de Matéria Escura (ME) na Via Láctea. O código faz parte do desenvolvimento do projeto de Iniciação Científica "A distribuição de matéria escura e sua conexão com os observáveis", sob orientação da Dra. Clarissa Siqueira, do Observatório Nacional. 
+Representação computacional da distribuição de Matéria Escura (ME) para diferentes perfis teóricos na Via Láctea. O código faz parte do desenvolvimento do projeto de Iniciação Científica "A distribuição de matéria escura e sua conexão com os observáveis", sob orientação da Dra. Clarissa Siqueira, do Observatório Nacional. 
 
 # Índice
 * [Introdução](#introdução)
