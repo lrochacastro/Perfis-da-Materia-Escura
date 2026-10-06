@@ -14,7 +14,7 @@ __pycache__/
 ############################################
 # DADOS CIENTÍFICOS (NÃO VERSIONAR)
 ############################################
-data/*
+
 !data/
 
 dados/
@@ -22,7 +22,6 @@ input/
 output/
 results/
 
-*.csv
 *.dat
 *.txt
 *.fits
@@ -32,8 +31,6 @@ results/
 *.npy
 *.npz
 
-# EXCEÇÃO: dataset versionado
-!data/rho_sol_dm.txt
 
 
 ############################################
